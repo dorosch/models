@@ -10,3 +10,6 @@ A set of 3d models of my training.
 
 3. Ford Mustang 1965
 ![ford-mustang-1965](https://user-images.githubusercontent.com/13240952/193476552-90cf9947-f73d-4291-bf14-da8c853c8214.png)
+
+4. Truck
+![truck](https://user-images.githubusercontent.com/13240952/194644105-d10f0928-8bfb-430a-a2ab-0a030d6fc063.png)
